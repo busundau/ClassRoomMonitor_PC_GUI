@@ -1,0 +1,8 @@
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\jacob_liang\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
