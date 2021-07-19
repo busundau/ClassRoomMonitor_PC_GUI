@@ -63,7 +63,7 @@ def b13_event(event):
 
 
 root=Tk()
-root.title("Myworld")
+root.title("CSF IP Cam Control Panel")#控制面板名稱
 root.geometry("600x1000")
 
 p1=PhotoImage(file = r"D:/jacob_liang/Desktop/lu.png")
